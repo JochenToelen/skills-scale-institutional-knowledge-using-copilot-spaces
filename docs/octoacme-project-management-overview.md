@@ -18,7 +18,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- UX/Design Lead: drives user research, interaction design, and usability validation.
+- Tech Lead / Engineering Lead: owns technical direction, architecture, and engineering standards.
+- Scrum Master / Delivery Coach: facilitates ceremonies, removes impediments, and improves team flow.
+- Security & Compliance Officer: ensures security requirements, compliance controls, and incident readiness.
+- Business Analyst (BA): translates business needs into detailed, testable requirements.
+- Sponsor / Executive Stakeholder: provides strategic direction and resolves Level 3 escalations.
+- Stakeholders: provide domain inputs and milestone approvals.
+
+For full role definitions and responsibilities, see [OctoAcme Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
